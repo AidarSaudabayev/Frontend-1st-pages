@@ -1,0 +1,387 @@
+*{ 
+    margin: auto;
+}
+
+.get-started{
+    width: 1280px;
+    height:1657px;
+    background-color: 
+    #F4F1ED;
+    padding-top: 33px;
+    background-image: url("img/man_and_dog.png");
+    background-repeat: no-repeat;
+
+}
+
+.header{
+    width:90%;
+    display: flex;
+    justify-content: space-between;
+margin: auto;
+}
+.koala-menu{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    margin-left:10px;
+    
+   
+}
+
+
+
+.products input{
+    width:156px;
+    border-radius: 1000px;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    color:black;
+    margin-left: 140px;
+   
+}
+.howsignzero{
+    display: flex;
+    justify-content: space-between;
+    width:230px;
+    gap: 7px;
+}
+.howsignzero button{
+    display: flex;
+align-items: center;
+    width: 44px;
+    height:26px;
+    border-radius: 1000px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top:7px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+.pet-medication{
+    width:494px;
+    margin-left: 710px;
+    margin-top:224px;
+ 
+}
+
+.pet-medication h1{
+    font-size: 66px;
+}
+.pet-medication p{
+    font-size: 16px;
+}
+.pet-medication button{
+   background-color:#0E2D22;
+   border-radius: 1000px;
+   padding:10px;
+   color: white;
+   font-size: 16px;
+   width: 220px;
+}
+.meds-time{
+    margin-top: 250px;
+    margin-left: 132px;
+    
+    display: flex;
+}
+.med {
+    
+
+margin-left: 52px;
+
+
+
+}
+.med p:nth-child(1){
+
+font-size: 44px;
+width:359px;
+height:159px;
+
+}
+.verify,.sort,.deliver{
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+   
+    
+    .verify button, .sort button, .deliver button{
+
+        font-size: 7px;
+        width: 20px;
+        height: 20px;
+        border-radius: 1000px;
+        border: 1px solid #9FABA7;
+        text-align: center;
+    }
+    .verify button{
+        background-color: black;
+        color: white;
+    }
+  
+.med a{
+    color:black;
+}
+
+
+.start{
+    margin: auto;
+    width: 233px;
+    height: 53px;
+    font-size: 48px;
+    color:#0E2D2299;
+    margin-top:259px;  
+}
+.shop{
+
+    position:relative;
+    top:-55px;
+    margin: auto;
+    width:626px;
+    text-align: center;
+    
+    
+}
+.shop h1{
+    
+    font-size: 48px;
+    
+}
+.shop p{
+    font-size: 16px;
+    color: #636E72;
+}
+.shop button{
+   background-color:#CBDDBF;
+   border-radius: 1000px;
+   padding:10px;
+   color: black;
+   font-size: 16px;
+   width: 220px;
+}
+.tablets{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;;
+}
+
+   
+ 
+.simparica-image{
+    width:263px;
+    height:226px;
+    background-image: url(img/s.png);
+    background-color: #F4F1ED;
+}
+.simparica button, .apoquel button,.rimadyl button,.purina button{
+    border-radius: 1000px;
+    background-color:  #F4F1ED;
+    border: none;
+}
+.simparica p:nth-child(4), .apoquel p:nth-child(4),.rimadyl p:nth-child(4),.purina p{
+    color: #636E72;
+}
+.simparica p:nth-child(5), .apoquel p:nth-child(5),.rimadyl p:nth-child(5){
+    font-size: 14px;
+}
+.apoquel-image{
+    width:263px;
+    height:226px;
+    background-image: url(img/a.png);
+    background-color: #F4F1ED;
+}
+.rimadyl-image{
+    width:263px;
+    height:226px;
+    background-image: url(img/r.png);
+    background-color: #F4F1ED;
+}
+.purina-image{
+    width:263px;
+    height:226px;
+    background-image: url(img/p.png);
+    background-color: #F4F1ED;
+}
+.simparica h1{
+    font-size: 35px;
+}
+
+
+.simparica, .apoquel, .rimadyl, .purina{
+    width:283px;
+}
+.tablets-prescription{
+    width: 1280px;
+    height:884px;  
+}
+.animals{
+    width:1280px;
+    height:1236px;
+background-color: #0E2D22;
+
+}
+.dog_lake_bear{
+    
+    display: flex;
+    justify-content: space-between;
+    width:1220px;
+    margin-left: 30px;
+    padding-top:150px;
+    
+}
+.dog-lake{
+    margin-top: 50px;
+}
+.join{
+    width: 403px;
+    margin: auto;
+    text-align: center;
+}
+.join h1{
+    
+    font-size: 38px;
+    color: #CBDDBF;
+}
+.join button{
+
+    width:176px;
+    border-radius: 100px;
+    padding:10px;
+    color: #EBE8DE;
+    background-color: #9E5B54;
+    border: none;
+
+
+}
+.cat_dog{
+    
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    width:1220px;
+    margin-left: 30px;
+   
+    
+    
+}
+.dog_white{
+    
+    
+}
+.view-1 p,.view-2 p,.view-3 p,.view-4 p{
+    color: white;
+}
+.countries-map{
+    width: 1280px;
+    height:1248px;
+    background-color:#636E72;
+}
+.countries{
+    width:495px;
+    height: 325px;
+    margin: auto;
+    text-align: center;
+    padding-top: 147px;
+    }
+
+    .image-map{
+       margin-left: 260px;
+       padding-top: 155px;
+    }
+    .countries button{
+        width:155px;
+        height:54px;
+        border-radius: 1000px;
+        background-color: #CBDDBF;
+        border: none;
+    }
+    .countries h1,.countries p{
+        color:white;
+    }
+    .countries h1{
+        font-size: 46px;
+    }
+.countries p{
+    font-size: 16px;
+}
+.countries-name{
+    padding:2px;
+}
+.state{
+    width:312px;
+  position: relative;
+  left:84px;
+  
+}  
+.view-1,.view-2,.view-3,.view-4{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    
+}
+.view-1 button,.view-2 button,.view-3 button,.view-4 button{
+    font-size: 7px;
+    width: 20px;
+    height: 20px;
+    border-radius: 1000px;
+    border: 1px solid #9FABA7;
+    text-align: center;
+    background-color: #9E5B54;
+    border: none;
+}
+
+
+
+.contact-company-legal{
+   display: flex;
+   justify-content: space-between;
+   margin-left:50px;
+   
+
+    
+}
+
+
+.contact p,.company p,.legal{
+    font-size: 16px;
+    color:#0E2D22;
+}
+.logos{
+    display: flex;
+padding:50px;
+gap:10px;
+
+}
+.logo{
+    display: flex;
+    gap:400px;
+    align-items: center;
+    align-content: flex-end;
+
+
+}
+
+.company{
+    width:1280px;
+    height:475px;
+}
+.contact-company-legal img{
+    width:70px;
+    height:80px;
+    position: relative;
+    top:410px;
+    right:20px;
+}
+.logo{
+    margin-top: 120px;
+}
+.legal-2 p{
+    font-size: 35px;
+    position:relative;
+    bottom:80px;
+    left:40px;
+    color: #0E2D22;
+}
